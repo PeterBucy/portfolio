@@ -1,5 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("https://fonts.googleapis.com/css?family=Limelight");
 
 /*
 	Prologue by HTML5 UP
@@ -83,12 +84,12 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
+		background: rgb(46, 44, 44);
+		font-family: 'Limelight', cursive;;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #000000;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -103,7 +104,7 @@ input, select, textarea {
 		}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Limelight', cursive;;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -112,7 +113,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color:#000000;
 		line-height: 1.5em;
 	}
 
@@ -156,7 +157,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 300;
-		color: #666;
+		color:#000000;
 	}
 
 	em, i {
@@ -175,7 +176,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color:#0f0936;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
